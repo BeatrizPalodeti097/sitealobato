@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+:root{
+
+}
+.cabecalho{
+    background-color: rgb(54, 150, 150);
+}
+.corpo{
+    background-color: aliceblue;
+}
+.footer{
+    background-color: rgb(80, 119, 106);
+}
