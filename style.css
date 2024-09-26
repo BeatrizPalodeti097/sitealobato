@@ -36,3 +36,10 @@
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     gap: 20px;
 }
+.video-item {
+    background-color: aliceblue;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(rgba(255, 0, 0, 0), rgba(0, 128, 0, 0), rgba(0, 0, 255, 0), alpha);
+    height: 200px;
+}
